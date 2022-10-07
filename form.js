@@ -1,5 +1,5 @@
 
-<script>
+
 			function GEEKFORGEEKS() {
 				var name =
 					document.forms.RegForm.Name.value;
@@ -61,4 +61,4 @@
 
 				return true;
 			}
-		</script>
+		
